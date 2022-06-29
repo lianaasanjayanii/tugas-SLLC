@@ -1,5 +1,5 @@
-// SITI NUR AZIZAH
-// 1121031074
+// LIANA SANJAYANI 
+// 1121031048
 // Informatika B
 // SLLC.cpp 
 // program singgle linked list circular dengan head dan tail
